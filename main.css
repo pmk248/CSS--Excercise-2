@@ -63,7 +63,6 @@ button:hover {
     box-shadow: 0 4px 6px rgba(123, 123, 123, 0.1);
     padding: 20px;
     text-align: center;
-    flex: 1;
 }
 
 .feature-card:hover {
