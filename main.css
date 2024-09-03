@@ -66,9 +66,9 @@ button:hover {
     flex: 1;
 }
 
-.feature-icon {
-    width: 50px;
-    margin-bottom: 15px;
+.feature-card:hover {
+    transform: scale(105%);
+    cursor: pointer;
 }
 
 .endtext {
